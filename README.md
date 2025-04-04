@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/github/followers/rojan998?label=Follow&style=social" />
   </a>
   <a href="https://www.youtube.com/@RojanAdhikari-619">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UC1XLb_DoX2eNWGKjkh2epwA?style=social" />
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCcLQ5D6s6Uu5Nq6CRO-6noQ?style=social" />
   </a>
   <a href="https://linkedin.com/in/rojan998">
    
