@@ -1,7 +1,8 @@
 <h1 align="center">Hey Everyone 👋, I'm Rojan Adhikari</h1>
 
 <div align="center">
-  <img src="https://github.com/jaiswaladi246/jaiswaladi246/blob/main/Banner.png" alt="DevOpsShack Banner">
+<!--   <img src="https://github.com/jaiswaladi246/jaiswaladi246/blob/main/Banner.png" alt="DevOpsShack Banner"> -->
+  <div class="tenor-gif-embed" data-postid="25183725" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/coding-gif-25183725">Coding GIF</a>from <a href="https://tenor.com/search/coding-gifs">Coding GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div>
 
 <h3 align="center">A passionate DevOps Engineer residing in USA.</h3>
@@ -14,7 +15,10 @@
     <img src="https://img.shields.io/youtube/channel/subscribers/UC1XLb_DoX2eNWGKjkh2epwA?style=social" />
   </a>
   <a href="https://linkedin.com/in/rojan998">
-    <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Jaiswal-blue?logo=linkedin&style=flat-square" />
+<!--     <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Jaiswal-blue?logo=linkedin&style=flat-square" /> -->
+    <img src="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif?cid=790b7611j0n1xl1sfykd33cler6mfe6a5x623063pl8i9oaz&ep=v1_gifs_search&rid=giphy.gif&ct=g />
+
+    
   </a>
 </p>
 
