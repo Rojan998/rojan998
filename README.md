@@ -25,7 +25,11 @@
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" alt="Banner Image">
+--- 
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/c552be39-25aa-4f5a-8421-54aa11f7131f" alt="Banner Image">
+----
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f606466f-4cc9-4cb1-8ad6-80a7eeea9e7e" alt="Banner Image">
+  
 </div>
 
 <h3 align="center">A passionate DevOps Engineer based on USA.</h3>
