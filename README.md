@@ -109,11 +109,13 @@
 ---
 
 ### 🔝 Top Contributed Repo
-<div align="center">
+<div align="left">
   
+<p align="left">
 ![](https://github-contributor-stats.vercel.app/api?username=rojan998&limit=5&theme=flat&combine_all_yearly_contributions=true)
+</p>
 <p align="right">
-<img src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" alt="eat_sleep">
+<img src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" alt="eat_sleep" width="400">
 <img src="https://github.com/user-attachments/assets/7dc581c4-98f2-45fd-be2d-204d0d4e3db3" width="400">
 </p>
 </div>
