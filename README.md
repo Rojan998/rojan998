@@ -116,9 +116,9 @@
 
 ---
 
-<p><img align="left" width="500" height="370" src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" alt="eat_sleep" /></p>
+<p><img align="left" width="400" height="370" src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" alt="eat_sleep" /></p>
 
-<p>&nbsp;<img align="center" width="500" src="https://github.com/user-attachments/assets/7dc581c4-98f2-45fd-be2d-204d0d4e3db3" alt="work_life" /></p>
+<p>&nbsp;<img align="center" width="400" src="https://github.com/user-attachments/assets/7dc581c4-98f2-45fd-be2d-204d0d4e3db3" alt="work_life" /></p>
 
 ---
 
