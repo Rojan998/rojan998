@@ -2,7 +2,8 @@
 
 <div align="center">
 <!--   <img src="https://github.com/jaiswaladi246/jaiswaladi246/blob/main/Banner.png" alt="DevOpsShack Banner"> -->
-  <div class="tenor-gif-embed" data-postid="25183725" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/coding-gif-25183725">Coding GIF</a>from <a href="https://tenor.com/search/coding-gifs">Coding GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <div class="tenor-gif-embed" data-postid="25183725" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/coding-gif-25183725">Coding GIF</a>from <a href="https://tenor.com/search/coding-gifs">Coding GIFs</a></div> 
+  
 </div>
 
 <h3 align="center">A passionate DevOps Engineer residing in USA.</h3>
@@ -82,5 +83,6 @@
 
 ---
 
+<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
