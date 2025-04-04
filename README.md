@@ -31,13 +31,16 @@
   <a href="https://www.youtube.com/@RojanAdhikari-619">
     <img src="https://img.shields.io/youtube/channel/subscribers/UCcLQ5D6s6Uu5Nq6CRO-6noQ?style=social" />
   </a>
-  <a href="https://linkedin.com/in/rojan998">
-   
-  </a>
+<a href="https://linkedin.com/in/rojan998" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Rojan%20Adhikari-blue?logo=linkedin&style=flat-square" />
+</a>
+
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-    <img src="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif?cid=790b7611j0n1xl1sfykd33cler6mfe6a5x623063pl8i9oaz&ep=v1_gifs_search&rid=giphy.gif&ct=g />
+<!-- <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"> -->
+
+<img align="right" alt="Coding" width="400" src="[https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif](https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif)">
+<!--     <img src="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif?cid=790b7611j0n1xl1sfykd33cler6mfe6a5x623063pl8i9oaz&ep=v1_gifs_search&rid=giphy.gif&ct=g /> -->
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=rojan998&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
