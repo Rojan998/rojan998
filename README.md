@@ -110,6 +110,9 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=rojan998&limit=5&theme=flat&combine_all_yearly_contributions=true)
+<p align="left">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/c552be39-25aa-4f5a-8421-54aa11f7131f" alt="Banner Image">
+</p>
 
 ---
 
