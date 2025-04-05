@@ -7,12 +7,12 @@
 <h3 align="center">A passionate DevOps Engineer based on USA.</h3>
 
 <p align="center">
-  <a href="https://github.com/rojan998">
+<!--   <a href="https://github.com/rojan998">
     <img src="https://img.shields.io/github/followers/rojan998?label=Follow&style=social" />
-  </a>
-  <a href="https://www.youtube.com/@RojanAdhikari-619">
+  </a> -->
+<!--   <a href="https://www.youtube.com/@RojanAdhikari-619">
     <img src="https://img.shields.io/youtube/channel/subscribers/UCcLQ5D6s6Uu5Nq6CRO-6noQ?style=social" />
-  </a>
+  </a> -->
 <a href="https://linkedin.com/in/rojan998" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Rojan%20Adhikari-blue?logo=linkedin&style=flat-square" />
 </a>
