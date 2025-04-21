@@ -1,4 +1,4 @@
-# Hi 👋, I'm Rojan Adhikari. A passionate DevOps Engineer from US.
+# Hi 👋, I'm Rojan Adhikari.
 
 
 ## 🌐 Socials:
